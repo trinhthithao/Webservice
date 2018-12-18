@@ -1,0 +1,7 @@
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\obj\Debug\BookWcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\bin\BookWcfService1.dll.config
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\bin\BookWcfService1.dll
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\bin\BookWcfService1.pdb
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\obj\Debug\BookWcfService1.dll
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\obj\Debug\BookWcfService1.pdb
+C:\Users\Trinh Thao\source\repos\BookWcfService1\BookWcfService1\obj\Debug\BookWcfService1.csprojAssemblyReference.cache
